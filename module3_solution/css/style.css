@@ -1,12 +1,11 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #e6f9ff; /*maroon*/
-  font-family: 'Oxygen', sans-serif;
+  background-color: #e6f9ff;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 h1 { 
-	font-family: 'Lora', sans-serif;
 	color:#ffffff;
 	font-size: 1.5em;
 	font-weight: bold;
@@ -16,7 +15,6 @@ h1 {
 }
 
 h2 { 
-	font-family: 'Lora', sans-serif;
 	color:#006080;
 	/*font-size: 1.8em;*/
 	font-weight: bold;
@@ -25,14 +23,13 @@ h2 {
 }
 
 h3 { 
-	font-family: 'Lora', sans-serif;
 	/*font-size: 1.3em;*/
 	font-weight: bold;
 }
 
 
 
-/** ============= HEADER ===================== **/
+/** ===================== HEADER ===================== **/
 #header-nav {
 	background-color: #cc6600;  
 }
@@ -55,7 +52,7 @@ h3 {
   border: 1px solid #661a00;
 }
 
-/** ============= Main content ===================== **/
+/** ===================== Main content ===================== **/
 
 #main-content a {
 	text-decoration: none;
@@ -81,8 +78,7 @@ div.sectiontxt{
 	color: #ff9900;
 }
 
-/** #################################################################### **/
-/** ============= Media queries ===================== **/
+/** ===================== Media queries ===================== **/
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
