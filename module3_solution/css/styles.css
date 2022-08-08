@@ -28,7 +28,6 @@ h3 {
 }
 
 
-
 /** ===================== HEADER ===================== **/
 #header-nav {
 	background-color: #cc6600;  
@@ -52,8 +51,8 @@ h3 {
   border: 1px solid #661a00;
 }
 
-/** ===================== Main content ===================== **/
 
+/** ===================== Main content ===================== **/
 #main-content a {
 	text-decoration: none;
 }
@@ -78,8 +77,8 @@ div.sectiontxt{
 	color: #ff9900;
 }
 
-/** ===================== Media queries ===================== **/
 
+/** ===================== Media queries ===================== **/
 /********** Large devices only **********/
 @media (min-width: 1200px) {
 .navbar-brand h1 {font-size: 2em;}
